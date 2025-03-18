@@ -1,1 +1,3 @@
-<h1 align="left">Hi 👋, I'm David</h1>
+<p align="left">
+  <strong>Hi 👋, I'm David</strong>
+</p>
